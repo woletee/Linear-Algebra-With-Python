@@ -4,7 +4,7 @@
 
 These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc. 
 
-The lectures notes are loosely based on several textbooks:
+The lectures notes are loosely based on several textbooks
 
 1. <b><i>Linear Algebra and Its Applications</i></b> by Gilbert Strang 
 2. <b><i>Linear Algebra and Its Applications</i></b> by David Lay 
