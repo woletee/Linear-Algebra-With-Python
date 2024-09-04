@@ -10,6 +10,7 @@ The lectures notes are loosely based on several textbooks
 2. <b><i>Linear Algebra and Its Applications</i></b> by David Lay 
 3. <b><i>Introduction to Linear Algebra With Applications</i></b> by DeFranza & Gagliardi
 4. <b><i>Linear Algebra With Applications</i></b> by Gareth Willia
+5. forked from 
 ![cover-min](https://user-images.githubusercontent.com/59842360/83939172-64df6c00-a7e3-11ea-80b1-058af696d5a3.png)
 
 However, the crux of the course is not about proving theorems, but to demonstrate the practices and visualization of the concepts. Thus we will not engage in precise deduction or notation, rather we aim to clarify the elusive concepts and thanks to Python/MATLAB, the task is much easier now.
